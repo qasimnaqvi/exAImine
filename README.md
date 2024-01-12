@@ -74,7 +74,7 @@ Welcome to exAIminer – the revolutionary AI/ML Educational Assistance App desi
 
 Thank you for exploring exAIminer on GitHub. This repository serves as a central hub for the app's development journey. Feel free to delve into the PRD and Press Release for a comprehensive understanding of exAIminer and join us in reshaping the future of education.
 
-**For more information, visit [www.exAIminer.com](www.exAIminer.com).**
+**For more information, visit https://www.linkedin.com/in/drqasimnaqvi/**
 
 ---
 

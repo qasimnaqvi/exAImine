@@ -1,8 +1,8 @@
-# exAIminer
+# exAImine
 
 ## Introduction
 
-Welcome to exAIminer – the revolutionary AI/ML Educational Assistance App designed to empower students in understanding and improving their academic performance. This GitHub repository houses the comprehensive Product Requirement Document (PRD) and Press Release for exAIminer, providing insights into the app's features, technical requirements, user interface design, and more.
+Welcome to exAImine – the revolutionary AI/ML Educational Assistance App designed to empower students in understanding and improving their academic performance. This GitHub repository houses the comprehensive Product Requirement Document (PRD) and Press Release for exAImine, providing insights into the app's features, technical requirements, user interface design, and more.
 
 ## Features and Functionalities
 
@@ -72,12 +72,12 @@ Welcome to exAIminer – the revolutionary AI/ML Educational Assistance App desi
 
 ## Conclusion
 
-Thank you for exploring exAIminer on GitHub. This repository serves as a central hub for the app's development journey. Feel free to delve into the PRD and Press Release for a comprehensive understanding of exAIminer and join us in reshaping the future of education.
+Thank you for exploring exAImine on GitHub. This repository serves as a central hub for the app's development journey. Feel free to delve into the PRD and Press Release for a comprehensive understanding of exAImine and join us in reshaping the future of education.
 
 **For more information, visit https://www.linkedin.com/in/drqasimnaqvi/**
 
 ---
 
-**About exAIminer**
+**About exAImine**
 
-exAIminer is a revolutionary AI/ML Educational Assistance App aimed at transforming the education landscape. With a focus on personalized learning recommendations and targeted practice, exAIminer empowers students to excel in their academic endeavors.
+exAImine is a revolutionary AI/ML Educational Assistance App aimed at transforming the education landscape. With a focus on personalized learning recommendations and targeted practice, exAImine empowers students to excel in their academic endeavors.
